@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1485447362 source:c:\users\xabie\documents\pong\main.cpp
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+
+1485353339 c:\users\xabie\documents\pong\cls.h
+
